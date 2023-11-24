@@ -14,7 +14,12 @@ Make sure you have the following dependencies installed:
 - [NumPy](https://numpy.org/)
 - [ART (Adversarial Robustness Toolbox)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 - [Scikit-learn](https://scikit-learn.org/stable/)
+  
+You can install them using:
 
+```bash
+pip install torch numpy adversarial-robustness-toolbox scikit-learn
+```
 ## Dataset
 
 ### MNIST
